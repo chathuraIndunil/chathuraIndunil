@@ -2,18 +2,18 @@
 
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Sandun;Nice+to+meet+you!;Software+Engineer;Full-Stack+Developer;AI/ML+Enthusiast;UI/UX+Designer;Mobile+Developer;Photographer" alt="Typing SVG"/> </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Chathura;Nice+to+meet+you!;Software+Engineer;Full-Stack+Developer;AI/ML+Enthusiast;UI/UX+Designer;Mobile+Developer" alt="Typing SVG"/> </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 </div>
 
 <div align="center">
  <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
 
-<h3 align="center"> Software Engineer | Full Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer | Photographer </h3>
+<h3 align="center"> Software Engineer | Full Stack Developer | AI/ML Enthusiast | UI/UX Designer | Mobile Developer </h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /><br><br>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sandun-harshana&label=Profile%20views&color=0e75b6&style=flat" alt="sandun-harshana" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=chathuraIndunil&label=Profile%20views&color=0e75b6&style=flat" alt="chathuraIndunil" /> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -22,7 +22,7 @@
 </p>
 - 🌱 I’m currently learning **React, Node.js, MongoDB**<br>
 - 💬 Ask me about **React, Node.js, MongoDB**<br>
-- 📫 How to reach me: [sandunharshana2020@gmail.com](mailto:sandunharshana2020@gmail.com)<br>
+- 📫 How to reach me: [chathuraindunil807@gmail.com](mailto:chathuraindunil807@gmail.com)<br>
 - ⚡ Fun fact: <strong>Avid gamer who loves diving into different game worlds</strong><br>
 - 🤝 Feel free to contact me on LinkedIn: <strong><a href="https://www.linkedin.com/in/sandun-harshana-dissanayake/">Sandun Harshana</a></strong><br>
 - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
@@ -34,19 +34,7 @@
   <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana-dissanayake" height="30" width="40" />
   </a>
- <a href="https://x.com/harshsna20826" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshsna20826" height="30" width="40" />
-  </a> 
-   <a href="https://stackoverflow.com/users/29355630/sandun-harshana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24110464" height="30" width="40" />
-  </a>
-   <a href="https://www.hackerrank.com/profile/sandunharshana21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihanvimukthi19" height="30" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/u/sandun99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
@@ -174,7 +162,7 @@
 ---
 <img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandun-harshana&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathuraIndunil&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
 </div>
 
 ### 📊 GitHub Stats
@@ -191,9 +179,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" />
 </p>
 
-#30NitesOfCode:
-  <a href="https://www.codedex.io/@sandun">Check out my progress!</a>  
-  <img src="[[https://www.codedex.io/api/petStatus?user=HARSHANA D.M.S]](https://www.codedex.io/images/girl.gif)" />
 
 <!-- Stats Section -->
 <table width="100%" cellspacing="20">
@@ -208,33 +193,17 @@
     </td>
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun-harshana&theme=dark" alt="sandun-harshana" width="100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuraIndunil&theme=dark" alt="chathuraIndunil" width="100%"/></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
 
   <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://x.com/harshsna20826" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshsna20826" height="30" width="40" />
-  </a>
   
   <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana" height="30" width="40" />
   </a>
-  
-  <a href="https://stackoverflow.com/users/29355630/sandun-harshana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24110464" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/sandunharshana21" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihanvimukthi19" height="30" width="40" />
-  </a>
-  
-  <a href="https://leetcode.com/u/sandun99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
-  </a>
+
 </p>
 
-<div align="center">
-<img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="hacker" border="0"  style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" /></a>
-</div>
+
