@@ -1,4 +1,4 @@
-<h1 align="center"># Hi 👋, I'm Sandun Harshana </h1>
+<h1 align="center"># Hi 👋, I'm Chathura Indunil </h1>
 
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
