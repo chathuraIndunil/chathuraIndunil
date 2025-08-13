@@ -17,22 +17,22 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sandun-harshana&theme=darkhub" alt="sandun-harshana" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chathuraIndunil&theme=darkhub" alt="chathuraIndunil" />
   </a>
 </p>
 - 🌱 I’m currently learning **React, Node.js, MongoDB**<br>
 - 💬 Ask me about **React, Node.js, MongoDB**<br>
 - 📫 How to reach me: [chathuraindunil807@gmail.com](mailto:chathuraindunil807@gmail.com)<br>
 - ⚡ Fun fact: <strong>Avid gamer who loves diving into different game worlds</strong><br>
-- 🤝 Feel free to contact me on LinkedIn: <strong><a href="https://www.linkedin.com/in/sandun-harshana-dissanayake/">Sandun Harshana</a></strong><br>
+- 🤝 Feel free to contact me on LinkedIn: <strong><a href="www.linkedin.com/in/chathura-indunil-9806a2325">Chathura indunil</a></strong><br>
 - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
 
 ---
 
 ### Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana-dissanayake" height="30" width="40" />
+  <a href="www.linkedin.com/in/chathura-indunil-9806a2325" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chathura indunil" height="30" width="40" />
   </a>
  
 </p>
@@ -200,8 +200,8 @@
   <h3 align="center">Connect with me:</h3>
 <p align="center">
   
-  <a href="https://linkedin.com/in/sandun-harshana-dissanayake" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandun-harshana" height="30" width="40" />
+  <a href="www.linkedin.com/in/chathura-indunil-9806a2325" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chathura indunil " height="30" width="40" />
   </a>
 
 </p>
